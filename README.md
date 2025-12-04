@@ -1,2 +1,2 @@
 ## Skile
-c, c++, java, python, typescript, dart
+c, java, python, typescript, dart
