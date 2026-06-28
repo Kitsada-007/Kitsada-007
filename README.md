@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kitsada Wangwaen</h1>
 
-## Skills
-Programming Languages: Python, SQL, JavaScript
-
-
+<h3 align="center">
+Computer Science Student at Mahasarakham University 🇹🇭
+</h3>
